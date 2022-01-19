@@ -1,0 +1,1 @@
+("8.2" ta6osx ("c41d2e7b38d273d7f494f6144886c80cef6ee082" . "98021066ae134f565d10f726c08cd76e3818560b") #"/Users/iremdemir/comp301-project2/COMP301-PROJECT/data-structures.rkt" (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt"))
